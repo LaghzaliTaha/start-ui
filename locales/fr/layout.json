@@ -1,0 +1,17 @@
+{
+    "mainMenu": {
+        "dashboard": "",
+        "admin": ""
+    },
+    "accountMenu": {
+        "version": {
+            "copied": "",
+            "copy": "",
+            "label": ""
+        },
+        "switchColorModeDark": "",
+        "switchColorModeLight": "",
+        "myAccount": "",
+        "logout": ""
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "403": {
+        "title": "",
+        "description": "",
+        "actions": {
+            "goBack": ""
+        }
+    },
+    "404": {
+        "title": "",
+        "description": ""
+    }
+}

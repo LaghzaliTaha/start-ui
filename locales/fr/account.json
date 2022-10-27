@@ -1,0 +1,141 @@
+{
+    "nav": {
+        "profile": "",
+        "password": "",
+        "myAccount": ""
+    },
+    "profile": {
+        "title": "",
+        "feedbacks": {
+            "updateSuccess": {
+                "title": ""
+            },
+            "updateError": {
+                "title": ""
+            }
+        },
+        "actions": {
+            "save": ""
+        }
+    },
+    "password": {
+        "title": "",
+        "feedbacks": {
+            "updateSuccess": {
+                "title": ""
+            },
+            "updateError": {
+                "title": ""
+            }
+        },
+        "actions": {
+            "changePassword": ""
+        }
+    },
+    "resetPassword": {
+        "title": "",
+        "actions": {
+            "cancel": "",
+            "goToLogin": "",
+            "reset": "",
+            "send": ""
+        },
+        "feedbacks": {
+            "initSuccess": {
+                "title": "",
+                "description": ""
+            },
+            "initError": {
+                "title": ""
+            },
+            "confirmSuccess": {
+                "title": "",
+                "description": ""
+            },
+            "confirmError": {
+                "title": ""
+            }
+        }
+    },
+    "activate": {
+        "feedbacks": {
+            "activationLoading": {
+                "title": ""
+            },
+            "activationSuccess": {
+                "title": ""
+            },
+            "activationError": {
+                "title": ""
+            }
+        }
+    },
+    "data": {
+        "firstname": {
+            "label": "",
+            "required": ""
+        },
+        "lastname": {
+            "label": "",
+            "required": ""
+        },
+        "email": {
+            "label": "",
+            "required": "",
+            "invalid": "",
+            "resetHelper": "",
+            "alreadyUsed": "",
+            "tooLong": "",
+            "tooShort": ""
+        },
+        "language": {
+            "label": ""
+        },
+        "password": {
+            "label": "",
+            "tooShort": "",
+            "tooLong": "",
+            "required": ""
+        },
+        "currentPassword": {
+            "incorrect": "",
+            "label": "",
+            "required": ""
+        },
+        "newPassword": {
+            "label": "",
+            "required": ""
+        },
+        "confirmNewPassword": {
+            "label": "",
+            "required": "",
+            "notEqual": ""
+        },
+        "login": {
+            "alreadyUsed": "",
+            "invalid": "",
+            "label": "",
+            "required": "",
+            "tooLong": "",
+            "tooShort": ""
+        }
+    },
+    "register": {
+        "actions": {
+            "alreadyHaveAnAccount": "",
+            "create": "",
+            "goToLogin": "",
+            "login": ""
+        },
+        "feedbacks": {
+            "registrationError": {
+                "title": ""
+            },
+            "registrationSuccess": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "title": "mail reqested"
+    }
+}

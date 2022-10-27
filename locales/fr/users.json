@@ -1,0 +1,86 @@
+{
+    "list": {
+        "title": "",
+        "actions": {
+            "createUser": "",
+            "refetch": ""
+        }
+    },
+    "feedbacks": {
+        "activateUserSuccess": {
+            "title": "",
+            "description": ""
+        },
+        "deactivateUserSuccess": {
+            "title": "",
+            "description": ""
+        },
+        "activateUserError": {
+            "title": "",
+            "description": ""
+        },
+        "deactivateUserError": {
+            "title": "",
+            "description": ""
+        },
+        "deleteUserSuccess": {
+            "title": "",
+            "description": ""
+        },
+        "deleteUserError": {
+            "title": "",
+            "description": ""
+        },
+        "loadingUserError": {
+            "title": "",
+            "description": ""
+        }
+    },
+    "data": {
+        "id": {
+            "label": ""
+        },
+        "authorities": {
+            "label": "",
+            "required": ""
+        },
+        "createdBy": {
+            "label": ""
+        },
+        "modifiedBy": {
+            "label": ""
+        },
+        "status": {
+            "label": "",
+            "activated": "",
+            "deactivated": ""
+        }
+    },
+    "update": {
+        "action": {
+            "save": ""
+        },
+        "feedbacks": {
+            "updateError": {
+                "title": ""
+            },
+            "updateSuccess": {
+                "title": ""
+            }
+        }
+    },
+    "create": {
+        "feedbacks": {
+            "updateError": {
+                "title": ""
+            },
+            "updateSuccess": {
+                "title": ""
+            }
+        },
+        "action": {
+            "save": ""
+        },
+        "title": ""
+    }
+}

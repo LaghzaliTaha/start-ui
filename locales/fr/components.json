@@ -1,0 +1,67 @@
+{
+    "dateAgo": {
+        "format": ""
+    },
+    "actionsButton": {
+        "label": ""
+    },
+    "confirmMenuItem": {
+        "confirmText": ""
+    },
+    "confirmModal": {
+        "confirmText": "",
+        "heading": ""
+    },
+    "confirmPopover": {
+        "confirmText": "",
+        "heading": ""
+    },
+    "pagination": {
+        "firstPage": "",
+        "prevPage": "",
+        "lastPage": "",
+        "nextPage": "",
+        "loading": "",
+        "showing": ""
+    },
+    "searchInput": {
+        "placeholder": "",
+        "clear": ""
+    },
+    "fieldDayPicker": {
+        "invalidMessage": ""
+    },
+    "fieldRepeater": {
+        "invalidMessage": ""
+    },
+    "fieldMultiSelect": {
+        "noOption": ""
+    },
+    "sort": {
+        "sortAscending": "",
+        "sortDescending": "",
+        "sortBy": "",
+        "order": ""
+    },
+    "errorBoundary": {
+        "actions": {
+            "expand": ""
+        },
+        "title": ""
+    },
+    "errorPage": {
+        "403": {
+            "description": "",
+            "title": ""
+        },
+        "404": {
+            "description": "",
+            "title": ""
+        },
+        "default": {
+            "description": "",
+            "title": ""
+        },
+        "errorCode": ""
+    }
+}
